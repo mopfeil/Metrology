@@ -7,5 +7,9 @@ http://nbviewer.jupyter.org/github/mopfeil/Metrology/blob/master/Measurement%20C
 
 Notebook for Measurement Uncertainty
 http://nbviewer.jupyter.org/github/mopfeil/Metrology/blob/master/Measurement_Uncertainty.ipynb
+
+Notebook for Distributions
+http://nbviewer.jupyter.org/github/mopfeil/Metrology/blob/master/distributions.ipynb
+
 Notebook for First Order Systems
 http://nbviewer.jupyter.org/github/mopfeil/Metrology/blob/master/FirstOrderSystems.ipynb
