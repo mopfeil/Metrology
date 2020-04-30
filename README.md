@@ -13,3 +13,7 @@ http://nbviewer.jupyter.org/github/mopfeil/Metrology/blob/master/distributions.i
 
 Notebook for First Order Systems
 http://nbviewer.jupyter.org/github/mopfeil/Metrology/blob/master/FirstOrderSystems.ipynb
+
+
+To View Interactively in Binder go here: 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mopfeil/Metrology/master)
